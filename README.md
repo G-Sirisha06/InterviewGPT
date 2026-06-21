@@ -13,5 +13,4 @@ This project is an AI-powered Resume Parser built using Python.
 - Streamlit
 - Groq API
 
-## Author
-G. Sirisha
+
