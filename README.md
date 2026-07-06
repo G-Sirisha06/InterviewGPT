@@ -1,4 +1,4 @@
-# AI Resume Parser
+# InterviewGPT
 
 This project is an AI-powered Resume Parser built using Python.
 
