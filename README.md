@@ -146,13 +146,8 @@ Runs the Streamlit web application and integrates all project modules.
 
 # 👩‍💻 Developed By
 
-**Sirisha Gurram**
+**Gurram Sirisha**
 
-B.Tech – Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-
-Sri Venkateswara College of Engineering, Tirupati
-
----
 
 # 📄 License
 
